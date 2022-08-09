@@ -1,11 +1,15 @@
 ### Olá! Eu sou Jadson Ribeiro 🖐️
 <br> 
-<p>Bem vindo 😊</p>
+<p>Seja Bem Vindo! 😊</p>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-ribeiro-76bab917b/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jadsonpublim/)
 
+---
+
 <br>
+
+
 
 
 > <p>Apaixonado por <strong>Tecnologia</strong></p>
@@ -17,7 +21,7 @@
 
 <br>
 
-> <p>Tecnologias que estou em <strong>Aprendizado<strong></p><br>
+> <p>Tecnologias que estou em <strong>Aprendizado<strong></p>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
